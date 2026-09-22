@@ -2,17 +2,17 @@
 
 ## Student Information
 
-- Student name:
-- Week:
-- Lab:
-- Date:
+- Student name:Anthony Guttridge
+- Week:4
+- Lab: 4 part b
+- Date: 9/22/2026
 
 ## AI Use
 
 Did you use an AI tool for this lab?
 
 - [ ] Yes
-- [ ] No
+- [/] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
 
@@ -44,7 +44,7 @@ Response:
 
 Describe one concept or programming skill you understand better after completing the lab.
 
-Response:
+Response: using no argument constructors and private instance variables 
 
 ## Summary
 
